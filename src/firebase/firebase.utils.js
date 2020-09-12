@@ -9,8 +9,8 @@ const config = {
     projectId: "crown-db-c054b",
     storageBucket: "crown-db-c054b.appspot.com",
     messagingSenderId: "617918575788",
-    appId: "1:617918575788:web:d77396a5a8c01868601b09",
-    measurementId: "G-Y61TVC1LRQ"
+    appId: "1:617918575788:web:2759e06747213e28601b09",
+    measurementId: "G-52JVV557VY"
 };
 
 firebase.initializeApp(config);
